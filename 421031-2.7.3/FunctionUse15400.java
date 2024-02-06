@@ -1,0 +1,6 @@
+import org.apache.hadoop.service.ServiceStateException;
+public class FunctionUse15400 {
+public void funcUse() {
+ServiceStateException servicestateexception = new ServiceStateException();
+}
+}
